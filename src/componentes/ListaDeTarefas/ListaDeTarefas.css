@@ -1,0 +1,29 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+  }
+  
+  h1{
+    color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  
+  h2 {
+    color: #ffe600;
+  }
+  
+  .tarefa {
+    margin-bottom: 15px;
+  }
+  
+  .tarefas-completas {
+    margin-bottom: 40px;
+    border: 10px;
+    background-color: rgba(120, 216, 11, 0.795);
+  }
+  
+  .tarefas-pendentes {
+    margin-bottom: 40px;
+    border: 10px;
+    background-color: rgb(241, 19, 19);
+  }
